@@ -1,0 +1,7 @@
+name: Valid
+version: 1.0.0
+summary: valid
+description: valid
+runner: ARM
+templatePath: azuredeploy.json
+parameters: []
