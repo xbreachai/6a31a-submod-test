@@ -1,0 +1,7 @@
+name: Cm01
+version: 1.0.0
+summary: p
+description: p
+runner: ARM
+templatePath: main.bicep
+parameters: []
